@@ -7,11 +7,12 @@ Visite o site: https://opendatasus.saude.gov.br/
 
 E beixe o dataset referente ao ano 2022
 
-ex:
+exemplo:
 
     https://opendatasus.saude.gov.br/dataset/srag-2021-e-2022
     SRAG 2022 - 22/08 > Explorar > Baixar
 
+    colocar o arquivo .csv na raíz desta pasta.
 
 
 ## License ##
